@@ -1,5 +1,11 @@
 
 
-<center>
-### Hi, I'm Elie 👋
-</center>
+<div>
+### Hi 👋
+</div>
+
+<style>
+  div {
+    text-align: center;
+  }
+</style>
