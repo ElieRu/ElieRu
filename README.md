@@ -57,7 +57,10 @@ I am a Full Stack Developer
 
 ### :fire: My Statistics :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ElieRu&theme=dark&background=000000)](https://git.io/streak-stats)
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElieRu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
