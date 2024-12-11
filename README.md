@@ -31,9 +31,9 @@ I am a Full Stack Developer
 
 - :zap: In my free time, I contribute to open-source projects.
 
-### :woman_technologist: My Tech Stack :
+## :woman_technologist: My Tech Stack :
 
-## Programming Languages
+#### Programming Languages
 
 | JavaScript | Php |
 | ------------- | ------------- |
