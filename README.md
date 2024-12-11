@@ -56,11 +56,9 @@ I am a Full Stack Developer
 | Mysql | Mongodb | Postman |
 | ------------- | ------------- | ------------- |
 | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
 
 ## Tools
 
 | Git | Github | VSCode | Mongoose |
 | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
