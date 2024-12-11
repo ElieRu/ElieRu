@@ -47,14 +47,9 @@ I am a Full Stack Developer
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpresseJs" alt="ExpresseJs" width="40" height="40"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJs" alt="NextJs" width="40" height="40"/>&nbsp; |
 
-#### Database and Testing
+#### Database, Testing And Tools
 
-| Mysql | Mongodb | Postman |
-| ------------- | ------------- | ------------- |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Mongodb"  alt="Mongodb" width="40" height="40"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp; |
+| Mysql | Mongodb | Postman | Git | Github | VSCode | Mongoose |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Mongodb"  alt="Mongodb" width="40" height="40"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp; |<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="Mongoose" alt="Mongoose" width="40" height="40"/> |
 
-#### Tools
-
-| Git | Github | VSCode | Mongoose |
-| ------------- | ------------- | ------------- | ------------- |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="Mongoose" alt="Mongoose" width="40" height="40"/> |
