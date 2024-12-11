@@ -55,7 +55,7 @@ I am a Full Stack Developer
 
 | Mysql | Mongodb | Postman |
 | ------------- | ------------- | ------------- |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp; | Content Cell  | Content Cell  |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Mongodb"  alt="Mongodb" width="40" height="40"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp; |
 
 #### Tools
 
