@@ -35,21 +35,17 @@ I am a Full Stack Developer
 
 #### Programming Languages
 
-| JavaScript | Php |
-| ------------- | ------------- |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; |
-
 #### Frontend Development
 
-| HTML | CSS | Bootstrap | Tailwind | React | Vue |
+| HTML | CSS | Bootstrap | Tailwind | JavaScript | React | Vue |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
-| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; | 
+| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; | 
 
 #### Backend Development
 
-| Nodejs  | Laravel | Express | Next.js |
+| Nodejs  | Php | Laravel | Express | Next.js |
 | ------------- | ------------- | ------------- | ------------- |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpresseJs" alt="ExpresseJs" width="40" height="40"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJs" alt="NextJs" width="40" height="40"/>&nbsp; |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpresseJs" alt="ExpresseJs" width="40" height="40"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJs" alt="NextJs" width="40" height="40"/>&nbsp; |
 
 #### Database and Testing
 
