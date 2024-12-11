@@ -39,25 +39,26 @@ I am a Full Stack Developer
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 
-## Frontend Development
+#### Frontend Development
 
 | HTML | CSS | Bootstrap | Tailwind | React | Vue |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | 
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+ | Content Cell  | 
 
-## Backend Development
+#### Backend Development
 
 | Nodejs  | Laravel | Express | Next.js |
 | ------------- | ------------- | ------------- | ------------- |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
-## Database and Testing
+#### Database and Testing
 
 | Mysql | Mongodb | Postman |
 | ------------- | ------------- | ------------- |
 | Content Cell  | Content Cell  | Content Cell  |
 
-## Tools
+#### Tools
 
 | Git | Github | VSCode | Mongoose |
 | ------------- | ------------- | ------------- | ------------- |
