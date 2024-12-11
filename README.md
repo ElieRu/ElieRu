@@ -33,8 +33,6 @@ I am a Full Stack Developer
 
 ## :woman_technologist: My Tech Stack :
 
-#### Programming Languages
-
 #### Frontend Development
 
 | HTML | CSS | Bootstrap | Tailwind | JavaScript | React | Vue |
