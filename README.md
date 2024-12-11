@@ -48,8 +48,8 @@ I am a Full Stack Developer
 ## Backend Development
 
 | Nodejs  | Laravel | Express | Next.js |
-| ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  |
+| ------------- | ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 ## Database and Testing
 
