@@ -33,10 +33,34 @@ I am a Full Stack Developer
 
 ### :woman_technologist: My Tech Stack :
 
-- React
-- Next.js
-- Vue.js
-- MongoDb and PostgreSQL
-- TailwindCSS
+## Programming Languages
 
+| JavaScript | Php |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
 
+## Frontend Development
+
+| HTML | CSS | Bootstrap | Tailwind | React | Vue |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | 
+
+## Backend Development
+
+| Nodejs  | Laravel | Express | Next.js |
+| ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  |
+
+## Database and Testing
+
+| Mysql | Mongodb | Postman |
+| ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+
+## Tools
+
+| Git | Github | VSCode | Mongoose |
+| ------------- | ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
