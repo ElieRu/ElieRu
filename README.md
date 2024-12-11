@@ -37,7 +37,7 @@ I am a Full Stack Developer
 
 | JavaScript | Php |
 | ------------- | ------------- |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; | Content Cell  |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; | <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; |
 
 #### Frontend Development
 
