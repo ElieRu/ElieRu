@@ -67,6 +67,6 @@ I am a Full Stack Developer
 - Email : [ruhamyaelie3@gmail.com](mailto:ruhamyaelie3@gmail.com)
 - Linkdn : [Elie Ruhamya](https://www.linkedin.com/in/elie-ruhamya-996826285)
 - Phone : [+243979411354](tel:+243979411354)
-- [Portfolio]([https://www.linkedin.com/in/elie-ruhamya-996826285](https://elie-ru01.netlify.app/)
+- [Portfolio](https://elie-ru01.netlify.app/)
 
 
