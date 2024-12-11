@@ -31,15 +31,12 @@ I am a Full Stack Developer
 
 - :zap: In my free time, I contribute to open-source projects.
 
+### :woman_technologist: My Tech Stack :
 
+- React
+- Next.js
+- Vue.js
+- MongoDb and PostgreSQL
+- TailwindCSS
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
