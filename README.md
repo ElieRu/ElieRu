@@ -62,5 +62,10 @@ I am a Full Stack Developer
   </tr>
 </table>
 
+### Contacts : 
+
+- ![Email](mailto:ruhamyaelie3@gmail.com)
+- ![Linkdn](https://www.linkedin.com/in/elie-ruhamya-996826285)
+- ![Phone](tel://+243979411354)
 
 
