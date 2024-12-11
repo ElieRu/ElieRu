@@ -57,14 +57,6 @@ I am a Full Stack Developer
 
 ### :fire: My Statistics :
 
-<div align="center">
-  <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ElieRu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElieRu&layout=compact&theme=vision-friendly-dark" />
-  </div>
-</div>
-
-
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=ElieRu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/></td>
