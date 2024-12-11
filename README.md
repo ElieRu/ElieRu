@@ -59,6 +59,8 @@ I am a Full Stack Developer
 
 ![ElieRu's Stats](https://github-readme-stats.vercel.app/api?username=ElieRu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+![ElieRu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ElieRu&theme=vue-dark&hide_border=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElieRu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
