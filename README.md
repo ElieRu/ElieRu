@@ -23,13 +23,7 @@
 
 ## :woman_technologist: About Me :
 
-I am a Full Stack Developer
-
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I contribute to open-source projects.
+I’m an aspiring software engineer with a strong foundation in Vue, React, Nextjs, mySql, mongoDb and Laravel. Eager to leverage my skills and knowledge to contribute to innovative projects and grow professionally.
 
 ## :woman_technologist: My Tech Stack :
 
