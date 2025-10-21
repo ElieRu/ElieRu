@@ -1,4 +1,4 @@
-# Hi👋, I'm Elie Ruhamya
+# Hi👋, I'm Elie
 
 __Computer Scientist | UI/UX Designer | Web Developper__
 
