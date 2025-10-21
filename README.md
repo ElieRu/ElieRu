@@ -15,8 +15,7 @@ I'm a **Computer Scientist (bac+5)** who loves building things for the web. For 
 - **Languages :** PHP, JavaScript
 - **Frameworks :** Tailwind, React JS, Vue, Node, Next
 - **Backend :** Laravel, Express
-- **Database :** MySQL, PostgreSQL, MongoDB
-- **Testing And Tools :** Postman, Git/GitHub and VSCode
+- **Database And Tools:** MySQL, PostgreSQL, MongoDB
 
 ## 🤝 Connect with Me (<a href="https://elie-ru01.netlify.app/cv/elie ruhamya.pdf" target="_black">**Download CV**</a>)
 
