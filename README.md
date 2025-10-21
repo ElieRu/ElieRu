@@ -25,23 +25,7 @@ I'm a **Computer Scientist (bac+5)** who loves building things for the web. For 
   <a href="mailto:elieruhamya20@gmail.com">
     <img src="https://camo.githubusercontent.com/634f77c49d135ee81a2825173ce1e6d2afd5401913ec1802bcdc3e42e1ab1912/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d4541343333353f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Email" data-canonical-src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
   </a>
-  <!-- <a href="https://twitter.com/RuhamyaElie" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> -->
-
-  <!-- <br/> -->
-  <!-- **"Bridging vision and reality with robust code"**  -->
-  <!-- [Portfolio](https://elie-ru01.netlify.app/) -->
-  <!-- <a href="https://elie-ru01.netlify.app/cv/elie ruhamya.pdf" target="_black">**Download CV**</a> -->
-
-## 📈 GitHub Stats
-
-<table>
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=ElieRu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElieRu&layout=compact&theme=vision-friendly-dark"/></td>
-  </tr>
-</table>
+  
 
 
 
