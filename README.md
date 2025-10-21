@@ -9,8 +9,6 @@ I'm a **Computer Scientist (bac+5)** who loves building things for the web. For 
 - **Currently work on**: Personnel projects and Business.
 - **Learning**: Tools, Methods and Techniques to decrease the working's time and emprove the result. 
 - **Ask me about**: Javascript Frameworks, PostegreSQL and any projects involving them.
-- **Future Challenge**: Dive into **Mobile Development** with expo and get start with **AI**.
-- **Fun fact**: When not coding, I am usually lost deep down in a Wikipedia rabbit hole trying to understand the history of typography 💯
 
 ## 🛠️ Skills and Tolls
 
