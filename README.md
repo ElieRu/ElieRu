@@ -6,7 +6,7 @@ I'm a **Computer Scientist (bac+5)** who loves building things for the web. For 
 
 ## 🔍 About Me
 
-- **Currently work on**: Personnel projects and Business.
+- **Currently work on**: [!Quick-Cartel Projects](https://quick-cartel.vercel.app/) and Personnel Business.
 - **Learning**: Tools, Methods and Techniques to decrease the working's time and emprove the result. 
 - **Ask me about**: Javascript Frameworks, PostegreSQL and any projects involving them.
 
