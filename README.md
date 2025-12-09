@@ -6,16 +6,17 @@ I'm a **Computer Scientist (bac+5)** who loves building things for the web. For 
 
 ## 🔍 About Me
 
-- **Currently work on**: [Quick-Cartel Projects](https://quick-cartel.vercel.app/) and Personnel Business.
-- **Learning**: Tools, Methods and Techniques to decrease the working's time and emprove the result. 
+- **Currently work on**: Personnel Projects.
+- **Learning**: Django Framework and Techniques to decrease the working's time and emprove the result. 
 - **Ask me about**: Javascript Frameworks, PostegreSQL and any projects involving them.
 
 ## 🛠️ Skills and Tolls
 
-- **Languages :** PHP, JavaScript
+- **Languages :** PHP, JavaScript, Python
 - **Frameworks :** Tailwind, React JS, Vue, Node, Next
-- **Backend :** Laravel, Express
-- **Database And Tools:** MySQL, PostgreSQL, MongoDB
+- **Backend :** Laravel, Express, Django
+- **Database :** MySQL, PostgreSQL, SQLite, MongoDB
+- **Tools :** Git/GitHub, Prisma, Supabase
 
 ## 🤝 Connect with Me (<a href="https://elie-ru01.netlify.app/cv/elie ruhamya.pdf" target="_black">**Download CV**</a>)
 
