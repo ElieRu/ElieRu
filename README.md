@@ -12,9 +12,9 @@ I'm a **Computer Scientist (bac+5)** who loves building things for the web. For 
 
 ## 🛠️ Skills and Tolls
 
-- **Languages :** PHP, JavaScript, Python
+- **Languages :** PHP, JavaScript
 - **Frameworks :** Tailwind, React JS, Vue, Node, Next
-- **Backend :** Laravel, Express, Django
+- **Backend :** Laravel, Express
 - **Database :** MySQL, PostgreSQL, SQLite, MongoDB
 - **Tools :** Git/GitHub, Prisma, Supabase
 
