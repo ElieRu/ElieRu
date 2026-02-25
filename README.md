@@ -20,8 +20,8 @@ I'm a **Computer Scientist (bac+5)** who loves building things for the web. For 
 
 ## 🤝 Connect with Me (<a href="https://elie-ru01.netlify.app/cv/elie ruhamya.pdf" target="_black">**Download CV**</a>)
 
-- <a href="https://www.linkedin.com/in/elie-ruhamya-996826285" target="_blank">Linkdn</a>
-- <a href="mailto:elieruhamya20@gmail.com">E-Mail</a>
+- <a href="https://www.linkedin.com/in/elie-ruhamya-996826285" target="_blank">**LinkedIn**</a>
+- <a href="mailto:elieruhamya20@gmail.com">**E-Mail**</a>
   
 
 
