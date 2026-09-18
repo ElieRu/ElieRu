@@ -6,7 +6,7 @@ I'm a **Computer Scientist (bac+5)** who loves building things for the web. For 
 
 ## 🔍 About Me
 
-- **Currently work on**: Training of Datascience and AI at The Mutsuo-Iwasawa Lab at <a href="https://weblab.t.u-tokyo.ac.jp/en/lecture/gci/">The University of Tokyo</a> and I'm working on Personal Projects.
+- **Currently**: I am doing a training of Datascience and AI at Mutsuo-Iwasawa Lab at <a href="https://weblab.t.u-tokyo.ac.jp/en/lecture/gci/">The University of Tokyo</a> and I'm working on Personal Projects.
 - **Learning**: Django Framework and Techniques to decrease the working's time and emprove the result. 
 - **Ask me about**: Javascript Frameworks, PostegreSQL and any projects involving them.
 
