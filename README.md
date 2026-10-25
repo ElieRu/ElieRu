@@ -6,17 +6,17 @@ I'm a **Computer Scientist (bac+5)** who loves building things for the web. For 
 
 ## 🔍 About Me
 
-- **Currently**: I am doing a training of Datascience and AI at Mutsuo-Iwasawa Lab at <a href="https://weblab.t.u-tokyo.ac.jp/en/lecture/gci/">The University of Tokyo</a> and I'm working on Personal Projects.
-- **Learning**: Django Framework and Techniques to decrease the working's time and emprove the result. 
+- **Currently**: I'm working as a web developer at <a href="https://kivexexchange.com">Kivex Exchange</a>(Build in Bukavu, connected to the world), our goal is to traing the youth about the profession of the future like Trading/Forex, Engeneering Prompt with AI and Cyber Security; And I'm working on Personal E-commerce project.
+- **Learning**: I'm doing a deep training of Datascience and AI at Mutsuo-Iwasawa Lab at <a href="https://weblab.t.u-tokyo.ac.jp/en/lecture/gci/">The University of Tokyo</a>. 
 - **Ask me about**: Javascript Frameworks, PostegreSQL and any projects involving them.
 
 ## 🛠️ Skills and Tolls
 
-- **Languages :** PHP, JavaScript
+- **Languages :** PHP, JavaScript, Python
 - **Frameworks :** Bootstrap, Tailwind, React JS, Vue, Node, Next
 - **Backend :** Laravel, Express
 - **Database :** MySQL, PostgreSQL, SQLite, MongoDB
-- **Tools :** Git/GitHub, Prisma, Supabase
+- **Tools :** Git/GitHub, Prisma, Supabase, Google Colab
 
 ## 🤝 Connect with Me (<a href="https://elie-ru01.netlify.app/cv/elie ruhamya.pdf" target="_black">**Download CV**</a>)
 
